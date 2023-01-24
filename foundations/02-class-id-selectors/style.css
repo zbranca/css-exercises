@@ -1,0 +1,18 @@
+.numberOdd {
+  background-color: #ffb6c1;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.big {
+  font-size: 24px;
+}
+
+#second {
+  font-size: 36px;
+  color: hsl(240, 100%, 50%);
+}
+
+#fourth {
+  font-weight: bold;
+  background-color: lightgreen;
+}
